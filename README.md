@@ -11,11 +11,13 @@
   </a>
 
 
-### Languages and Tools:
+### :hammer_and_wrench: Languages and Tools:
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,git,nodejs,vscode)
 
+### :fire: My Stats:
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aleks930819&theme=dark&background=000000)](https://git.io/aleks930819)
 
 
 <!--
