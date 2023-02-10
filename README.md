@@ -1,6 +1,22 @@
 ### Hi there 👋
 
-![linkedin](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+### Connect with me:
+
+  <a href="https://www.instagram.com/aleks_at93/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/aleksandar-atanasov-32880a1b2/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+
+### Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,git,nodejs,vscode)](https://skillicons.dev)
+
+
+
 
 <!--
 **aleks930819/aleks930819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
