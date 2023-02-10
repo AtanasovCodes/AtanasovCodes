@@ -13,7 +13,7 @@
 
 ### :hammer_and_wrench: Languages and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,git,nodejs,vscode)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,firebase,git,nodejs,vscode)
 
 ### :fire: My Stats:
 
