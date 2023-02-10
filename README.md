@@ -2,11 +2,11 @@
 
 ### Connect with me:
 
-  <a href="https://www.instagram.com/aleks_at93/">
+  <a href="https://www.instagram.com/aleks_at93/"  target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   
-  <a href="https://www.linkedin.com/in/aleksandar-atanasov-32880a1b2/">
+  <a href="https://www.linkedin.com/in/aleksandar-atanasov-32880a1b2/"  target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
