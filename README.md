@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on House Market App
+
 ### Connect with me:
 
   <a href="https://www.instagram.com/aleks_at93/">
@@ -25,7 +27,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
