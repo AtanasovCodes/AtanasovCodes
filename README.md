@@ -1,7 +1,6 @@
 ### Hi there 👋
 
--  I’m currently working on House Market App
--  I’m currently learning TypeScript
+
 
 ### Connect with me:
 
