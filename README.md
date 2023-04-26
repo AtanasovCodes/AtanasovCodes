@@ -21,6 +21,8 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aleks930819&theme=dark&background=000000)
 
+<img src="https://www.codewars.com/users/aleks930819/badges/large" >
+
 
 <!--
 **aleks930819/aleks930819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
