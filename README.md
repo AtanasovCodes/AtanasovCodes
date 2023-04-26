@@ -21,6 +21,8 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aleks930819&theme=dark&background=000000)
 
+![Codewars](https://github.r2v.ch/codewars?user=aleks930819&stroke=%23BB432C)
+
 <img src="https://www.codewars.com/users/aleks930819/badges/large" >
 
 
