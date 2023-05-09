@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+- 🌱 I’m currently learning Next.js
 
 ### Connect with me:
 
