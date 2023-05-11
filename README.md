@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Next.js
-
 ### Connect with me:
 
   <a href="https://www.instagram.com/aleks_at93/">
