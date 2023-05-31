@@ -2,9 +2,7 @@
 
 ### Connect with me:
 
-  <a href="https://www.instagram.com/aleks_at93/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+
   
   <a href="https://www.linkedin.com/in/aleksandar-atanasov-32880a1b2/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
