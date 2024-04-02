@@ -10,7 +10,11 @@
   
   <a href="https://www.linkedin.com/in/aleksandar-atanasov-32880a1b2/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+    
   </a>
+<a href="mailto:aleks930819@gmail.com" >
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 <hr/>
 
 ### :hammer_and_wrench: Languages and Tools:
