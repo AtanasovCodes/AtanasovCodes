@@ -12,9 +12,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
     
   </a>
-<a href="mailto:aleks930819@gmail.com"  target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
 <hr/>
 
 ### :hammer_and_wrench: Languages and Tools:
