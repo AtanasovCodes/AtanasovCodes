@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<h1 align="start">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
+</h1>
 
 
 ### Connect with me:
@@ -8,11 +11,22 @@
   <a href="https://www.linkedin.com/in/aleksandar-atanasov-32880a1b2/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
+<hr/>
 
 ### :hammer_and_wrench: Languages and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,sass,nodejs,react,nextjs,redux,firebase,git,vscode,vim)
+
+
+<div align="start">
+    <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,sass,bootstrap,html,css,tailwind" />
+  <br/>
+<br/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,firebase,git,vscode,vim" /><br>
+</div>
+
+<hr/>
+
+
 
 ### :fire: My Stats:
 
@@ -23,6 +37,7 @@
 ![Codewars](https://github.r2v.ch/codewars?user=aleks930819&stroke=%23BB432C)
 
 <img src="https://www.codewars.com/users/aleks930819/badges/large" >
+
 
 
 <!--
