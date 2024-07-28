@@ -12,7 +12,7 @@
 ### :hammer_and_wrench: Languages and Tools:
 
 <div align="start">
-    <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,sass,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,rails,sass,html,css,tailwind" />
   <br/>
   <br/>
     <img src="https://skillicons.dev/icons?i=react,nextjs,redux,firebase,git,vscode,vim" /><br>
