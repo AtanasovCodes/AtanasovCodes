@@ -20,6 +20,7 @@
 
 <hr/>
 
+<!--
 ### :mortar_board: Certificates:
 
 <div align="start">
@@ -29,6 +30,7 @@
     <img src="https://res.cloudinary.com/dbrewse3d/image/upload/v1721547143/Programming_Fundamentals_with_JavaScript_-_September_2022_-_Certificate_taoago.png" width="200" />
 
 </div>
+-->
 
 ### :fire: My Stats:
 
