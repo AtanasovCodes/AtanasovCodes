@@ -1,8 +1,11 @@
 <h1 align="start">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Alex;" />
 </h1>
 
 
+### 🙌 About Me:
+I'm a software engineer with a deep passion for web development, constantly driven by the desire to create and learn. Since 2022, I've been immersing myself in various projects that challenge my skills and expand my knowledge. I believe in the power of collaboration and am always ready to contribute, whether it’s by coding, debugging, or sharing what I've learned. Feel free to explore my repositories :-)
+<hr/>
 
 ### :hammer_and_wrench: Languages and Tools:
 
@@ -13,6 +16,11 @@
     <img src="https://skillicons.dev/icons?i=react,nextjs,redux,firebase,git,vscode,vim" /><br>
 </div>
 
+<hr/>
+
+### 🚀 Professional Goals 
+  * **Career Development**: I'm currently seeking a new opportunity in the software development field where I can leverage my skills and experience to contribute to innovative projects
+  * **Continuous learning and improvement**:  Dedicated to continuous professional growth by staying current with the latest tech trends and honing my coding skills. 📈
 <hr/>
 
 <!--
@@ -31,6 +39,7 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aleks930819&theme=dark&background=#262729)
 
+<!--
 ### ⚔️ Codewars:
 
 ![Codewars](https://github.r2v.ch/codewars?user=aleks930819&stroke=%23BB432C)
@@ -38,8 +47,9 @@
 <img src="https://www.codewars.com/users/aleks930819/badges/large" >
 
 <hr/>
+-->
 
-### Connect with me:
+### 📧 Connect with me:
   
   <a href="https://www.linkedin.com/in/aleksandar-atanasov-32880a1b2/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
