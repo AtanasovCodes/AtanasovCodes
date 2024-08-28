@@ -4,7 +4,7 @@
 
 
 ### 🙌 About Me:
-I'm a software engineer with a deep passion for web development, constantly driven by the desire to create and learn. Since 2022, I've been immersing myself in various projects that challenge my skills and expand my knowledge. I believe in the power of collaboration and am always ready to contribute, whether it’s by coding, debugging, or sharing what I've learned. Feel free to explore my repositories :-)
+I'm a software engineer with a deep passion for web development, driven by a relentless desire to create and learn. Over the past few years, I've immersed myself in various projects that challenge my skills and expand my knowledge. I believe in the power of collaboration and am always ready to contribute, whether it’s by coding, debugging, or sharing what I've learned. Feel free to explore my repositories :-)
 <hr/>
 
 ### :hammer_and_wrench: Languages and Tools:
