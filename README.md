@@ -2,12 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
 </h1>
 
-### Connect with me:
-  
-  <a href="https://www.linkedin.com/in/aleksandar-atanasov-32880a1b2/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-<hr/>
+
 
 ### :hammer_and_wrench: Languages and Tools:
 
@@ -44,6 +39,12 @@
 
 <hr/>
 
+### Connect with me:
+  
+  <a href="https://www.linkedin.com/in/aleksandar-atanasov-32880a1b2/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+<hr/>
 
 
 <!--
