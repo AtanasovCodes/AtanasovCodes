@@ -10,7 +10,7 @@ I'm a software engineer with a deep passion for web development, driven by a rel
 ### :hammer_and_wrench: Languages and Tools:
 
 <div align="start">
-    <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,rails,sass,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,rails,wordpress,sass,html,css,tailwind" />
   <br/>
   <br/>
     <img src="https://skillicons.dev/icons?i=react,nextjs,redux,firebase,git,vscode,vim" /><br>
