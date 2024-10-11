@@ -19,7 +19,7 @@ I'm a software engineer with a deep passion for web development, driven by a rel
 <hr/>
 
 ### 🚀 Professional Goals 
-  * **Career Development**: I'm currently seeking a new opportunity in the software development field where I can leverage my skills and experience to contribute to innovative projects
+ <!-- * **Career Development**: I'm currently seeking a new opportunity in the software development field where I can leverage my skills and experience to contribute to innovative projects -->
   * **Continuous learning and improvement**:  Dedicated to continuous professional growth by staying current with the latest tech trends and honing my coding skills. 📈
 <hr/>
 
