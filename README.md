@@ -37,7 +37,7 @@ I'm a software engineer with a deep passion for web development, driven by a rel
 
 ### :fire: My Stats:
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aleks930819&theme=dark&background=#262729)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AtanasovCodes&theme=dark&background=#262729)
 
 <!--
 ### ⚔️ Codewars:
