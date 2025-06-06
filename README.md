@@ -39,9 +39,6 @@ I'm a software engineer with a deep passion for web development, driven by a rel
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AtanasovCodes&theme=dark&background=#262729)
 
-### 🔢 LeetCode Stats:
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/aleks930819?theme=dark&font=Montserrat)](https://leetcode.com/aleks930819/)
 
 
 <!--
